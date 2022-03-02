@@ -206,9 +206,10 @@ enemies = {'Laura': 'Slug',
            'Eloi': 'Orc'}
 
 # Diccionario del jugador {Nombre: Raza, ...}
-you = {'Pau': 'Human'}
+you = {'Miguel': 'Human'}
 
-# battle = battle('Eloi', 4)
 batt = battle(you, enemies)
 
 batt.main()
+
+input("\nPress Enter to exit")
