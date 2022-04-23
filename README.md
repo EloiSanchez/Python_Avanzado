@@ -6,4 +6,4 @@ The classes given by the teacher are in the Classes folder. The Documentos_final
 - **Day 2**: NLP and Image processing (including a bit of ML)
 - **Day 3**: Machine Learning
 
-El sentiment_dataset.csv requerido para las practicas de NLP del dia 2 es demasiado grande. Puede descargarse de https://www.kaggle.com/kazanova/sentiment140.
+The `sentiment_dataset.csv` required for the NLP tasks of the second day is too large. It can be downloaded from https://www.kaggle.com/kazanova/sentiment140.
